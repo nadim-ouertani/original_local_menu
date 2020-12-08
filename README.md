@@ -4,6 +4,8 @@ Code for the screens created with flutter.
 
 Design Credit - https://dribbble.com/shots/6196911-Cookies-app-3/attachments
 
+# Coded By Nadim OUERTANI
+
 ## Screenshots
 
 ![Screenshot_20191017-012435](https://user-images.githubusercontent.com/8137504/66954025-34449980-f07d-11e9-95c4-8c1a0938852c.png)
